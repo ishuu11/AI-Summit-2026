@@ -49,21 +49,21 @@ They played an important role in guiding students, clarifying doubts, and ensuri
 
 The following **2nd year students of Vaish College of Engineering** actively participated in the AI Summit Educational Trip:
 
-• **Kunjal Garg**
-• **Kalash Goyal**
-• **Riya Gupta**
-• **Mehak Girdhar**
-• **Ridhi Sharma**
-• **Shagun Tanwar**
-• **Jatilesh Kataria**
-• **Saksham Juneja**
-• **Gunat Soni**
-• **Ishu Saini**
-• **Bhavy Jain**
-• **Vishal**
-• **Devansh Shekhawat**
-• **Prerak Kaushik**
-• **Anshul**
+- **Kunjal Garg**
+- **Kalash Goyal**
+- **Riya Gupta**
+- **Mehak Girdhar**
+- **Ridhi Sharma**
+- **Shagun Tanwar**
+- **Jatilesh Kataria**
+- **Saksham Juneja**
+- **Gunat Soni**
+- **Ishu Saini**
+- **Bhavy Jain**
+- **Vishal**
+- **Devansh Shekhawat**
+- **Prerak Kaushik**
+- **Anshul**
 
 These students enthusiastically engaged in the sessions, explored emerging technologies, and made the educational trip successful and memorable.
 
