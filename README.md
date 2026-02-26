@@ -57,8 +57,6 @@ The following **2nd year students of Vaish College of Engineering** actively par
 - **Shagun Tanwar**
 - **Jatilesh Kataria**
 - **Saksham Juneja**
-- **Gunat Soni**
-- **Ishu Saini**
 - **Bhavy Jain**
 - **Vishal**
 - **Devansh Shekhawat**
